@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/kevin-gómez-31222b1a7)  
+- 💼 [LinkedIn](https://linkedin.com/in/kevin-gómez-31222b1a7)  
 - 🌐 [Portfolio Website](#) *(coming soon)*  
 - 📧 kevgom@icloud.com | kevin.gomez6@upr.edu  
 
