@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 About Me  
-- 🌱 Currently pursuing my **Bachelor’s in Software Engineering** (3nd year).  
+- 🌱 Currently pursuing my **Bachelor’s in Software Engineering** (3rd year).  
 - 🛠️ Building experience in **robotics systems**, from **embedded control** to **autonomous behaviors**.  
 - 💡 Interested in bridging **low-level embedded programming** with **high-level AI decision-making**.  
 - 🚀 Member of **AON Robotics**, where we achieved **2nd place at the 2025 Puerto Rican National VEX Robotics Competition**.  
